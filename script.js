@@ -131,7 +131,7 @@ btn.addEventListener("click", () =>{
                 speak("opening your project azad sir ...")
                 window.open("https://swatantra35.github.io/Amazon-Clone/","_blank");
                 break;
-             case message.includes("WHO IS MY BEST FRIENDS"):
+             case message.includes("WHO IS MY BEST FRIEND"):
                 speak("YOURS FRIENDS ARE DEEPANSHU, ADITYA, FAKIYA DARLING ...")
                 break;
             
